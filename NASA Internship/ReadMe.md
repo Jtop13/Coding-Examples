@@ -10,9 +10,12 @@ thats why the files have .ipynb extentsion
 
 The folder Generation contains python scripts
 that call methods from one another in order to
-generate +500k synethic flux ropes, developed from my
+generate +500k synethic flux ropes developed from my
 mentors mathematical model, in order to offer
-enough data to train a neural network
+enough data to train a neural network. I used pre-existing
+files create.py and fractal_synth.py that were created by 
+my colleagues in order to implement generate.py for the 
+machine learning purpose.
 
 The file CNN_1D... shows the process of reading the 
 synetic files in, converting them to npz files and
