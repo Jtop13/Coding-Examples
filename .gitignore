@@ -3,4 +3,6 @@
 *.o
 *.exe
 tmp/
+.DS_Store
+.Rhistory
 
