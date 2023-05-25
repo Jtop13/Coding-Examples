@@ -1,4 +1,6 @@
-.DS_Store
-.Rhistory
-.out
+*.out
+*.log
+*.o
+*.exe
+tmp/
 
