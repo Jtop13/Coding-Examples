@@ -8,3 +8,10 @@ and date they were backed up.
 
 sysinfo.sh will display system information such as
 how long the system has been open, disk usage and memory usage.
+
+setup_database_server.sh is for setting up a server environment for 
+running a Flask application. It automates the process of 
+installing required packages, setting up Apache and PostgreSQL, and 
+configuring Apache to serve the Flask application using mod_wsgi.
+This was useful for setting up my own database for my stocks project.
+ 
