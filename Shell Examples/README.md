@@ -1,10 +1,15 @@
 The following is examples 
 of shell scripts.
 
+The Homemade Shell folder is a project
+where I built a simple Unix shell.
 
 backup.sh will backup all zip files
 in that directory and will give the time
 and date they were backed up.
+
+create_gitignore.sh is a simple file used to automate
+the creation of a gitignore file.
 
 sysinfo.sh will display system information such as
 how long the system has been open, disk usage and memory usage.
