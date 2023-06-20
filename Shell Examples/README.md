@@ -21,3 +21,6 @@ configuring Apache to serve the Flask application using mod_wsgi.
 This was useful for setting up my own database for my stocks project.
 
 ssh_setup.sh is a script I use for connecting my linux system to a raspberry pi. 
+
+network_scan.sh is a script I use on my home network to scan the IP range, 
+detecting the hostnames, operating systems, and open ports.
