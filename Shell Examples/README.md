@@ -19,4 +19,5 @@ running a Flask application. It automates the process of
 installing required packages, setting up Apache and PostgreSQL, and 
 configuring Apache to serve the Flask application using mod_wsgi.
 This was useful for setting up my own database for my stocks project.
- 
+
+ssh_setup.sh is a script I use for connecting my linux system to a raspberry pi. 
